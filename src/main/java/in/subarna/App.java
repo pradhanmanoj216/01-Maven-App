@@ -14,4 +14,10 @@ public class App
 	static void m1(){
 		System.out.println("m1() method execute");
 	}
+
+		//fix bug -122 code --high priority
+	void m3(){
+		//fixed the 122 code 
+	}
+
 }
